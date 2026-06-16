@@ -1,1 +1,1 @@
-echo "My name is Kajal" > hello.txt
+echo "My name is Kajal, class: Github Learning" > hello.txt
